@@ -102,6 +102,12 @@ After completing this project, you'll understand:
 
 ## 📈 Sample Results
 
+<img width="1827" height="1296" alt="image" src="https://github.com/user-attachments/assets/3fecfeae-c092-40ed-a32a-65852005098a" />
+<img width="1941" height="1284" alt="image" src="https://github.com/user-attachments/assets/4269b1e8-62ee-4168-b328-34992bf819db" />
+<img width="1740" height="1293" alt="image" src="https://github.com/user-attachments/assets/fe576228-47d7-41c8-8aa8-6dae9f14beec" />
+<img width="2220" height="1107" alt="image" src="https://github.com/user-attachments/assets/487943cb-1cca-4091-809c-8149a9cc9b93" />
+
+
 Here's the actual output from running `python analyze.py 6`:
 
 ```
@@ -252,5 +258,6 @@ Perfect for:
 - **Research**: Foundation for valuation methodology research
 
 ---
+
 
 **Ready to master startup valuation?** Run the demo and explore the interactive notebook to see professional-grade financial analysis in action! 🚀📊
