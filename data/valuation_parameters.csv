@@ -1,0 +1,12 @@
+Parameter,Value,Description
+Risk_Free_Rate,0.035,10-Year Treasury Rate
+Market_Risk_Premium,0.06,Expected market return minus risk-free rate
+Beta,1.5,Company beta (higher for startups)
+Cost_of_Equity,0.125,Risk-free rate + Beta * Market risk premium
+Cost_of_Debt,0.08,Interest rate on debt
+Tax_Rate,0.25,Corporate tax rate
+Debt_Weight,0.2,Debt as % of total capital
+Equity_Weight,0.8,Equity as % of total capital
+WACC,0.114,Weighted Average Cost of Capital
+Terminal_Growth_Rate,0.025,Long-term growth rate
+Projection_Years,5,Number of years to project
